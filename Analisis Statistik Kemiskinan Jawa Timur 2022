@@ -1,0 +1,99 @@
+📊 Analisis Statistik Kemiskinan Jawa Timur 2022
+Deskripsi Project:
+Project ini membahas analisis statistik data kemiskinan kabupaten/kota di Jawa Timur tahun 2022 menggunakan data dari Badan Pusat Statistik (BPS).
+
+Analisis dilakukan untuk mengetahui:
+Jumlah penduduk miskin di setiap daerah
+Persentase kemiskinan kabupaten/kota
+Proporsi data kemiskinan
+Varians data (S²)
+Perbedaan tingkat kemiskinan antar wilayah
+
+Tujuan Project:
+Menganalisis kondisi kemiskinan di Jawa Timur tahun 2022
+Membandingkan tingkat kemiskinan antar kabupaten/kota
+Mengidentifikasi daerah dengan tingkat kemiskinan tinggi dan rendah
+Melatih kemampuan analisis data statistik menggunakan Excel
+Memahami distribusi dan variasi tingkat kemiskinan di Jawa Timur
+
+Tools yang Digunakan:
+Microsoft Excel
+Statistik Deskriptif
+Data Visualization
+
+Dataset
+Sumber Data:
+Badan Pusat Statistik (BPS) Jawa Timur Tahun 2022.
+
+Data yang digunakan meliputi:
+Kabupaten/Kota
+Jumlah Penduduk Miskin (Ribuan Jiwa)
+Persentase Kemiskinan
+Proporsi Data
+Nilai Deviasi (xi − x̄)
+Varians Data (S²)
+
+Metode Analisis
+Metode yang digunakan:
+Statistik Deskriptif
+Perhitungan rata-rata (mean)
+Perhitungan proporsi
+Perhitungan varians (S²)
+Analisis perbandingan antar daerah
+Penyajian grafik data
+Interpretasi hasil analisis
+Tahapan Pengolahan Data
+Mengumpulkan data kemiskinan dari BPS Jawa Timur.
+Menginput data ke Microsoft Excel.
+Membuat tabel pengolahan data.
+Menghitung rata-rata, proporsi, dan varians.
+Membuat visualisasi data dalam bentuk grafik.
+Menginterpretasikan hasil analisis statistik.
+Menyusun kesimpulan berdasarkan hasil pengolahan data.
+
+Hasil Analisis
+Berdasarkan hasil pengolahan data:
+Total jumlah penduduk miskin di Jawa Timur tahun 2022 sebesar 501,17 ribu jiwa.
+Rata-rata jumlah penduduk miskin sebesar 13,19.
+Total proporsi data sebesar 3,92 dengan rata-rata proporsi 0,10.
+Nilai varians (S²) sebesar 134,86, yang menunjukkan adanya variasi tingkat kemiskinan antar daerah.
+Daerah dengan Jumlah Penduduk Miskin Tertinggi
+Kabupaten/Kota	Jumlah Penduduk Miskin (Ribu Jiwa)
+Sampang	217,97
+Malang	252,88
+Jember	232,73
+Bangkalan	196,11
+Sumenep	206,20
+Daerah dengan Persentase Kemiskinan Tertinggi
+Kabupaten/Kota	Persentase (%)
+Sampang	21,61
+Bangkalan	19,44
+Sumenep	18,76
+Probolinggo	17,12
+Tuban	15,02
+Daerah dengan Persentase Kemiskinan Terendah
+Kabupaten/Kota	Persentase (%)
+Kota Batu	3,79
+Kota Malang	4,37
+Kota Surabaya	4,72
+Kota Madiun	4,76
+Kabupaten Sidoarjo	5,36
+
+Kesimpulan:
+Berdasarkan hasil analisis statistik, tingkat kemiskinan di Jawa Timur tahun 2022 masih menunjukkan variasi yang cukup besar antar kabupaten/kota. Kabupaten Sampang menjadi daerah dengan persentase kemiskinan tertinggi, diikuti oleh Bangkalan dan Sumenep. Sebaliknya, Kota Batu, Kota Malang, dan Kota Surabaya memiliki tingkat kemiskinan yang relatif rendah.
+Nilai varians sebesar 134,86 menunjukkan bahwa tingkat kemiskinan di Jawa Timur belum merata antar wilayah. Oleh karena itu, diperlukan upaya pembangunan yang lebih inklusif dan pemerataan kesejahteraan untuk mengurangi kesenjangan sosial ekonomi di berbagai daerah.
+
+Skill yang Dipelajari:
+Data Analysis
+Statistik Deskriptif
+Microsoft Excel
+Data Cleaning
+Data Visualization
+Statistical Analysis
+Interpretasi Data
+Analisis Sosial Ekonomi
+
+Author:
+Oktaviani Eka Putri
+
+#Data Analysis #Statistics #Microsoft Excel #BPS #Kemiskinan #Jawa Timur #Data Visualization #Portfolio Project
